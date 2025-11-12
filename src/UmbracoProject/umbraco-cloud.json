@@ -8,6 +8,12 @@
       "TrialExpireDate": "2025-11-26T07:55:28.0000000",
       "Workspaces": [
         {
+          "Id": "fc84087b-a0e5-4902-a01d-045a03653deb",
+          "Name": "Development",
+          "Type": "development",
+          "Url": "https://dev-clouddeveloper.euwest01.umbraco.io"
+        },
+        {
           "Id": "c200a7a3-f77c-4b30-817c-49f677be7257",
           "Name": "Live",
           "Type": "live",
