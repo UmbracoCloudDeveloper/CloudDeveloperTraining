@@ -1,16 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Name": "rasmus s ambitious hedgehog",
-      "Alias": "rasmus-s-ambitious-hedgehog",
+      "Name": "CloudDeveloper",
+      "Alias": "clouddeveloper",
       "Id": "398af933-cfbe-49ee-a29e-dcd7a30ae0fe",
+      "Url": "https://www.s1.umbraco.io/project/clouddeveloper",
       "TrialExpireDate": "2025-11-26T07:55:28.0000000",
       "Workspaces": [
         {
           "Id": "c200a7a3-f77c-4b30-817c-49f677be7257",
           "Name": "Live",
           "Type": "live",
-          "Url": "https://rasmus-s-ambitious-hedgehog.euwest01.umbraco.io"
+          "Url": "https://clouddeveloper.euwest01.umbraco.io"
         }
       ]
     },
