@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "rasmus s ambitious hedgehog",
+      "Alias": "rasmus-s-ambitious-hedgehog",
+      "Id": "398af933-cfbe-49ee-a29e-dcd7a30ae0fe",
+      "TrialExpireDate": "2025-11-26T07:55:28.0000000",
+      "Workspaces": [
+        {
+          "Id": "c200a7a3-f77c-4b30-817c-49f677be7257",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://rasmus-s-ambitious-hedgehog.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
