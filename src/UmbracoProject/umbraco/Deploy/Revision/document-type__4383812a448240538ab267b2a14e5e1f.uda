@@ -11,7 +11,7 @@
   "CompositionContentTypes": [],
   "PropertyGroups": [],
   "PropertyTypes": [],
-  "Udi": "umb://document-type/38ff975624e342f0bd6c8b66011fc8c8",
+  "Udi": "umb://document-type/4383812a448240538ab267b2a14e5e1f",
   "Dependencies": [],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
   "__version": "16.0.4"
